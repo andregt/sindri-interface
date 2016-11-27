@@ -1,0 +1,39 @@
+{
+  "name": "sindri-interface",
+  "version": "0.1.0",
+  "description": "Framework de Interface baseado no Blessed, Blessed-contrib e node-drawille",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andregt/sindri-interface.git"
+  },
+  "keywords": [
+    "blessed",
+    "blessed-contrib",
+    "interface",
+    "cli"
+  ],
+  "author": "André Timermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andregt/sindri-interface/issues"
+  },
+  "homepage": "https://github.com/andregt/sindri-interface#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^3.5.5",
+    "bluebird": "^3.4.1",
+    "commander": "^2.9.0",
+    "drawille": "^1.1.0",
+    "lodash": "^4.13.1",
+    "moment": "^2.14.1",
+    "os-utils": "0.0.14",
+    "pidusage": "^1.0.4",
+    "pretty-bytes": "^3.0.1",
+    "sindri-cli": "^0.1.5",
+    "subclassof": "^0.1.2"
+  }
+}
