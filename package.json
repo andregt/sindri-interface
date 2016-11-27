@@ -1,6 +1,6 @@
 {
   "name": "sindri-interface",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Framework de Interface baseado no Blessed, Blessed-contrib e node-drawille",
   "main": "index.js",
   "scripts": {
